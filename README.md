@@ -1,3 +1,5 @@
 # Sfml_Snake
 Challenge was to make a "snake game" in 2h. Challenge finished in 1h56.
-![GameSreenshot](https://cdn.discordapp.com/attachments/731164408314593282/1104399947962519582/20230506-1330-27.1109615.mp4) 
+
+https://user-images.githubusercontent.com/55618696/236627482-447e616c-3330-418a-85ed-9be168493283.mp4
+
